@@ -1,6 +1,8 @@
 - url: https://www.fanqidi.com/
   output: fanqidi.png
   height: 800
+  wait: 1000
 - url: https://blog.fanqidi.com/
   output: blog.png
   height: 800
+  wait: 1000
