@@ -1,8 +1,36 @@
 - url: https://www.fanqidi.com/
   output: fanqidi.png
   height: 800
-  wait: 1000
+  width: 800
+  quality: 80
+  wait: 2000
 - url: https://blog.fanqidi.com/
   output: blog.png
   height: 800
-  wait: 1000
+  width: 800
+  quality: 80
+  wait: 2000
+- url: https://tea.fanqidi.com/
+  output: tea.png
+  height: 800
+  width: 800
+  quality: 80
+  wait: 2000
+- url: https://staking.fanqidi.com/
+  output: staking.png
+  height: 800
+  width: 800
+  quality: 80
+  wait: 2000
+- url: https://files.fanqidi.com/
+  output: files.png
+  height: 800
+  width: 800
+  quality: 80
+  wait: 2000
+- url: https://www.fanqidi.com/slides
+  output: slides.png
+  height: 800
+  width: 800
+  quality: 80
+  wait: 2000
