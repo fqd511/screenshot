@@ -34,3 +34,9 @@
   width: 400
   quality: 10
   wait: 2000
+- url: https://asset.fanqidi.com
+  output: asset.png
+  height: 400
+  width: 400
+  quality: 10
+  wait: 2000
